@@ -16,7 +16,7 @@ function HeroSection() {
 
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
                     I craft stellar web experiences powered by modern technologies.  
-                    Navigating between <span class="text-primary">back-end constellations</span> and  
+                    Navigating between <span className="text-primary">back-end constellations</span> and  
                     <span className="text-primary ml-1">front-end galaxies</span>, building interfaces that shine through beauty
                     and functionality.
                 </p>
